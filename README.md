@@ -1,6 +1,6 @@
 # Ogimet data analyser
 
-This script is used for Ogimet (weather) data visualization. There are vast amounts of weather and climate data available on Ogimet, but it's usually just tables or synops. With this script you can easily visualize climate data chronologically and get bar charts with a lot of useful information and scale up weather data usage.
+This script is used for Ogimet (weather) data visualization. There are vast amounts of weather and climate data available on Ogimet, but it's usually just tables or synops. With this script you can chronologically visualize climate data and get bar charts with a lot of useful information. This scales up Ogimet data usage to a completly new level!
 
 Main advantage is simplicity. Only start script (weather_analysis), input station ID, starting year and time interval. That's it, script does rest of the job!
 
